@@ -2,7 +2,7 @@
 
 Technologies: HTML, CSS, JS, React.
 
-Ok, time to take it up a notch. Let's build [this landing page](https://blackrockdigital.github.io/startbootstrap-heroic-features/) using React Function Components.
+Let's build [this landing page](https://blackrockdigital.github.io/startbootstrap-heroic-features/) using React Function Components.
 The idea is to split Bootstrap components into different function Components, they'll be all imported in the main component Home.jsx
 
 ***Please use Function Components for this***
@@ -11,28 +11,14 @@ Note: the Cards have different content, think DRY (Don't repeat yourself) and de
 
 ### How to start?
 
-Start with the React boilerplate.
+1. Take some minutes to build a strategy, draw it!
 
-## Steps to install this project
+![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
-##### 0. Make sure you have breathecode-cli installed in your environment. [Detailed instructions](https://www.npmjs.com/package/breathecode-cli)
-```
-$ npm install -g breathecode-cli
-```
-##### 1. Start the React boilerplate
-```
-$ breathecode start:react-project
-```
-###### (optional) Check if your folder has a ```package.json``` file, otherwise, move to that folder (```cd```):
+The key of this project is to help you understand a pick the components that you want to build: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
-##### 2. Install the /node_modules
-```
-$ npm install
-```
-##### 3. Run the webpack development server
-```
-$ npm run c9
-```
+2. Use the React boilerplate.
+3. Start building!
 
 That is it! Start coding your first React website.
 Have fun!
