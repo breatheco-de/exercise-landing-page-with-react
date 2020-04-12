@@ -2,6 +2,8 @@
 	"title" : "Landing Page with React",
 	"slug" : "landing-page-with-react",
 	"status": "published",
+	"difficulty": "easy",
+	"technologies": ["react.js", "html", "css", "bootstrap"],
 	"solution": "https://blackrockdigital.github.io/startbootstrap-heroic-features/",
 	"duration" : 12,
 	"description" : "Create a simple landing page using React.js components",
