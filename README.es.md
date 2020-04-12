@@ -1,38 +1,25 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Landing page with React 
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Landing page con React.js
 
 Tecnologías: HTML, CSS, JS, React.
 
-Ok, time to take it up a notch. Let's build [this landing page](https://blackrockdigital.github.io/startbootstrap-heroic-features/) using React Function Components.
-La idea es dividir los componentes de Bootstrap en diferentes componentes de función, todos se importarán en el componente principal Home.jsx
+Vamos a construir [este landing page](https://blackrockdigital.github.io/startbootstrap-heroic-features/) pero utilizando react y components funcionales (de tipo funcion).
+
+La idea es dividir los componentes de Bootstrap en diferentes componentes de función, todos se importarán en el componente principal Home.js
 
 ***Por favor use los Componentes de Función para esto***
 
 Nota: las tarjetas tienen un contenido diferente, piense DRY (no se repita) y declare solo ***un*** componente y use ```props``` para manejar contenido diferente.
 
-### ¿Como empezar?
+## Como empezar este landing page?
 
-Comience con la placa de reacción React.
+1. Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, marca los componentes que vas a desarrollar:
 
-## Pasos para instalar este proyecto
+![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
-##### 0. Asegúrese de tener instalado el código de aliento en su entorno. [Instrucciones detalladas](https://www.npmjs.com/package/breathecode-cli)
-```
-$ npm install -g breathecode-cli
-```
-##### 1. Poner en marcha la placa de calentamiento React.
-```
-$ breathecode start:react-project
-```
-###### (opcional) Comprueba si tu carpeta tiene un archivo ```package.json```, de lo contrario, muévete a esa carpeta (``` cd```):
+Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir que components vas a crear, ¿Que crees que deba ser un componente? ¿Qué se va a reutilizar? ¿Cómo puedes hacer que tu código quede realmente ordenado y prevenir futuros errores?: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
-##### 2. Instalar el /node_modules
-```
-$ npm install
-```
-##### 3. Ejecutar el servidor de desarrollo webpack.
-```
-$ npm run c9
-```
+2. Una vez terminada la estrategia puedes empezar a codigicar, empieza tu proyecto a partir de un template (plantilla) de React.
+3. ¡Empieza a programar 🎊!
 
 ¡Eso es! Comience a codificar su primer sitio web React.
 ¡Que te diviertas!
