@@ -4,7 +4,7 @@
 
 Technologies: HTML, CSS, JS, React.
 
-Let's build [this landing page](https://blackrockdigital.github.io/startbootstrap-heroic-features/) using React Function Components.
+Let's build [this landing page](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif) using React Function Components.
 The idea is to split Bootstrap components into different function Components, they'll be all imported in the main component Home.jsx
 
 ***Please use Function Components for this***
