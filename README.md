@@ -17,7 +17,7 @@ Note: the Cards have different content, think DRY (Don't repeat yourself) and de
 
 ![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
-The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into somthing bid and hard to understand you probably will need to split into componets: `<Jumbotron />`, `<Navbar />`, `<Card />`.
+The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into somthing big and hard to understand you probably will need to split into componets: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
 2. Use the React boilerplate.
 3. Start building!
