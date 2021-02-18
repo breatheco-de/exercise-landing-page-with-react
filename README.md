@@ -1,7 +1,8 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Landing page with React 
 
 ```
-🔥 This exercise is meant to be done with a partner, collaborate, discuss exchange with others and your learning will be easier and faster.
+🔥 This exercise is meant to be done with a partner.
+   Collaborate, discuss exchange with others and your learning will be easier and faster.
 ```
 
 <p align="center"><img height="200" src="https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif?raw=true" /></p>
