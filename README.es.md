@@ -1,5 +1,10 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Landing page con React.js
 
+```
+🔥 Este ejercicio esta diseñado para realizase en grupos de 2 o maximo 3 personas.
+   Si colaboras, discutes e intercambias ideas absorberás el contenido más rápidamente.
+```
+
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif?raw=true" />
 </p>
