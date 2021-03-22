@@ -19,14 +19,20 @@ Note: the Cards have different content, think DRY (Don't repeat yourself) and de
 
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+Do not clone this repository.
 
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-landing-page-with-react.git
+1. The first step to start coding is cloning the [react boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or gitpod.
 
-b) You can clone this repository on your local computer:
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello).
+
+b) If working locally type the following command from your command line: 
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-landing-page-with-react.git
-```
+`git clone https://github.com/4GeeksAcademy/react-hello`.
+````
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
+
 
 Then, take some minutes to build a strategy, draw it!
 
