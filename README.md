@@ -21,17 +21,16 @@ Note: the Cards have different content, think DRY (Don't repeat yourself) and de
 
 Do not clone this repository.
 
-1. The first step to start coding is cloning the [react boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or gitpod.
+The first step to start coding is cloning the [react boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or gitpod.
 
 a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello).
 
 b) If working locally type the following command from your command line: 
 ```sh
-`git clone https://github.com/4GeeksAcademy/react-hello`.
+$ git clone https://github.com/4GeeksAcademy/react-hello
 ````
 
 💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
-
 
 
 Then, take some minutes to build a strategy, draw it!
@@ -40,8 +39,6 @@ Then, take some minutes to build a strategy, draw it!
 
 The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into something big and hard to understand you probably will need to split into components: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
-2. Use the React boilerplate.
-3. Start building!
 
 That is it! Start coding your first React website.
 Have fun!
