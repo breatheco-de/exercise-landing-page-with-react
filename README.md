@@ -16,16 +16,29 @@ The idea is to split Bootstrap components into different function Components, th
 
 Note: the Cards have different content, think DRY (Don't repeat yourself) and declare only ***one*** component and use ```props``` to handle different content.
 
-### How to start?
 
-1. Take some minutes to build a strategy, draw it!
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+The first step to start coding is cloning the [react boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello).
+
+b) If working locally type the following command from your command line: 
+```sh
+$ git clone https://github.com/4GeeksAcademy/react-hello
+````
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
+
+Then, take some minutes to build a strategy, draw it!
 
 ![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
 The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into something big and hard to understand you probably will need to split into components: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
-2. Use the React boilerplate.
-3. Start building!
 
 That is it! Start coding your first React website.
 Have fun!

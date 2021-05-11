@@ -19,16 +19,26 @@ La idea es dividir los componentes de Bootstrap en diferentes componentes de fun
 
 Nota: las tarjetas tienen un contenido diferente, piense DRY (no se repita) y declare solo ***un*** componente y use ```props``` para manejar contenido diferente.
 
-## Como empezar este landing page?
 
-1. Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, marca los componentes que vas a desarrollar:
+## 🌱  Cómo iniciar este proyecto
+
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+
+## estrategia
+
+Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, marca los componentes que vas a desarrollar:
 
 ![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
 Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir que components vas a crear, ¿Que crees que deba ser un componente? ¿Qué se va a reutilizar? ¿Cómo puedes hacer que tu código quede realmente ordenado y prevenir futuros errores?: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
-2. Una vez terminada la estrategia puedes empezar a codigicar, empieza tu proyecto a partir de un template (plantilla) de React.
-3. ¡Empieza a programar 🎊!
+Una vez terminada la estrategia puedes empezar a codigicar, 
+¡Empieza a programar 🎊!
 
-¡Eso es! Comience a codificar su primer sitio web React.
-¡Que te diviertas!
