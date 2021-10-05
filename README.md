@@ -37,7 +37,7 @@ Then, take some minutes to build a strategy, draw it!
 
 ![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
-The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into something big and hard to understand you probably will need to split into components: `<Jumbotron />`, `<Navbar />`, `<Card />`.
+The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into something big and hard to understand you probably will need to split into components: `<HeroImage />`, `<Navbar />`, `<Card />`.
 
 
 That is it! Start coding your first React website.
