@@ -11,7 +11,7 @@
 
 Tecnologías: HTML, CSS, JS, React.
 
-Vamos a construir [este landing page](https://blackrockdigital.github.io/startbootstrap-heroic-features/) pero utilizando react y components funcionales (de tipo función).
+Vamos a construir [este landing page](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif) pero utilizando react y components funcionales (de tipo función).
 
 La idea es dividir los componentes de Bootstrap en diferentes componentes de función, todos se importarán en el componente principal Home.js
 
