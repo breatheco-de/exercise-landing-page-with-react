@@ -19,5 +19,7 @@
 		{ "badge": "js-inspector", "points": 10 },
 		{ "badge": "git-creator", "points": 10 },
 		{ "badge": "the-console", "points": 10 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
