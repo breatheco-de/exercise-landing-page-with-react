@@ -24,7 +24,7 @@ Nota: las tarjetas tienen un contenido diferente, piense DRY (no se repita) y de
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu computador local o con Gitpod.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
 
@@ -39,6 +39,6 @@ Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre el
 
 Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir que components vas a crear, ¿Qué crees que deba ser un componente? ¿Qué se va a reutilizar? ¿Cómo puedes hacer que tu código quede realmente ordenado y prevenir futuros errores?: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
-Una vez terminada la estrategia puedes empezar a codificar, 
+Una vez terminada la estrategia puedes comenzar a codificar, 
 ¡Empieza a programar 🎊!
 
