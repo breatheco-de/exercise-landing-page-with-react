@@ -37,7 +37,7 @@ Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre el
 
 ![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
-Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir que components vas a crear, ¿Qué crees que deba ser un componente? ¿Qué se va a reutilizar? ¿Cómo puedes hacer que tu código quede realmente ordenado y prevenir futuros errores?: `<Jumbotron />`, `<Navbar />`, `<Card />`.
+Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir qué componentes vas a crear, ¿Qué crees que deba ser un componente? ¿Qué se va a reutilizar? ¿Cómo puedes hacer que tu código quede realmente ordenado y prevenir futuros errores?: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
 Una vez terminada la estrategia puedes empezar a codificar, 
 ¡Empieza a programar 🎊!
