@@ -1,4 +1,7 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Landing page con React.js
+<!--hide-->
+#  Landing page con React.js 
+<!--endhide-->
+
 
 ```
 🔥 Este ejercicio está diseñado para realizarse en grupos de 2 o máximo 3 personas.
