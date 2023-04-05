@@ -1,5 +1,5 @@
 <!--hide-->
-# Página de Destino con React.js
+#  Landing page con React.js
 <!--endhide-->
 
 ```

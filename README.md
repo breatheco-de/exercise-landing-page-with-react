@@ -1,10 +1,10 @@
 <!--hide-->
-# Landing page con React.js
+# Landing page with React 
 <!--endhide-->
 
 ```
 🔥 This exercise is meant to be done with a partner.
-   Collaborate, discuss exchange with others and your learning will be easier and faster.
+   Collaborate, and discuss exchanges with others and your learning will be easier and faster.
 ```
 
 <p align="center"><img height="200" src="https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif?raw=true" /></p>
@@ -41,7 +41,7 @@ Take a few minutes to analyze 🤯 the image and draw your strategy on it, mark 
 
 ![Strategy for building a landing page with react](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
-The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into something big and hard to understand you probably will need to split into components: `<Jumbotron />`, `<Navbar />`, `<Card />`.
+The key of this project is to help you understand how to pick the components that you want to build, you have to think the best way to organize and avoid future errors. What can be re-used? If your code is tuning into something big and hard to understand you probably will need to split it into components: `<Jumbotron />`, `<Navbar />`, `<Card />`.
 
 That is it! Start coding your first React website.
 Have fun!🎊
