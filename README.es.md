@@ -1,10 +1,10 @@
 <!--hide-->
-#  Landing page con React.js 
+#  Landing page con React.js
 <!--endhide-->
 
-
 ```
-🔥 Este ejercicio está diseñado para realizarse en grupos de 2 o máximo 3 personas.
+🔥 Este ejercicio está diseñado para realizarse en  
+grupos de 2 o máximo 3 personas.
    Si colaboras, discutes e intercambias ideas absorberás el contenido más rápidamente.
 ```
 
@@ -18,23 +18,27 @@ Vamos a construir [este landing page](https://github.com/breatheco-de/exercise-l
 
 La idea es dividir los componentes de Bootstrap en diferentes componentes de función, todos se importarán en el componente principal Home.js
 
-***Por favor use los Componentes de Función para esto***
+***Por favor usa los Componentes de Función para esto***
 
 Nota: las tarjetas tienen un contenido diferente, piense DRY (no se repita) y declare solo ***un*** componente y use ```props``` para manejar contenido diferente.
 
+## 🌱 Cómo comenzar este proyecto
 
-## 🌱  Cómo iniciar este proyecto
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu computador local o con Gitpod.
+Recomendamos abrir el `react boilerplate ` usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+Este es el repositorio que necesitas abrir o clonar:
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+```
+https://github.com/4GeeksAcademy/react-hello
+```
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+**👉 Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
-## estrategia
+## Estrategia
 
 Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, marca los componentes que vas a desarrollar:
 
@@ -45,3 +49,4 @@ Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir qu
 Una vez terminada la estrategia puedes empezar a codificar, 
 ¡Empieza a programar 🎊!
 
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
