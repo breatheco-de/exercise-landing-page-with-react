@@ -4,7 +4,9 @@
 
 > 🔥 This exercise is meant to be done with a partner. Collaborate, discuss ideas, and exchange insights with others, and your learning will be easier and faster.
 
-<p align="center"><img height="500" src="https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif?raw=true" /></p>
+<p align="center">
+  <img height="500" src="https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/preview.gif?raw=true" />
+</p>
 
 Technologies: HTML, CSS, JS, React.
 
@@ -14,7 +16,7 @@ The idea is to split Bootstrap components into different function components; th
 
 ***Please use Function Components for this***
 
-> Note: The cards have different content, think DRY (Don't Repeat Yourself) and declare only ***one*** component and use `props` to handle different content.
+> Note: The cards have different content, think DRY (Don't Repeat Yourself) and declare only ***one*** `<Card />` component, then use `props` to handle different content.
 
 ## 🌱 How to start this project
 
