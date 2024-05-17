@@ -36,7 +36,7 @@ https://github.com/4GeeksAcademy/react-hello
 
 ## Estrategia
 
-Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, marca los componentes que vas a desarrollar:
+Tómate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, marca los componentes que vas a desarrollar:
 
 ![Estrategia para construir una landing page con React](https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/strategy.gif?raw=true)
 
