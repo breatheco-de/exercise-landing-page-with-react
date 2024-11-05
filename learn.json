@@ -4,7 +4,7 @@
 	"status": "published",
 	"difficulty": "easy",
 	"technologies": ["react.js", "html", "css", "bootstrap"],
-	"solution": "https://blackrockdigital.github.io/startbootstrap-heroic-features/",
+	"solution": "https://github.com/breatheco-de/exercise-landing-page-with-react/tree/solution",
 	"preview": "https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/thumb.png?raw=true",
 	"duration" : 12,
 	"description" : "Create a simple landing page using React.js components",
