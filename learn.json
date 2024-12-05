@@ -7,6 +7,7 @@
 	"solution": "https://github.com/breatheco-de/exercise-landing-page-with-react/tree/solution",
 	"preview": "https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/thumb.png?raw=true",
 	"duration" : 12,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"description" : "Create a simple landing page using React.js components",
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
