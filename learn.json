@@ -1,5 +1,8 @@
 {
-	"title" : "Landing Page with React",
+	"title" : {
+    "us": "Landing Page with React",
+    "es": "Landing Page con React"
+},
 	"slug" : "landing-page-with-react",
 	"status": "published",
 	"difficulty": "easy",
@@ -7,7 +10,11 @@
 	"solution": "https://github.com/breatheco-de/exercise-landing-page-with-react/tree/solution",
 	"preview": "https://github.com/breatheco-de/exercise-landing-page-with-react/blob/master/thumb.png?raw=true",
 	"duration" : 12,
-	"description" : "Create a simple landing page using React.js components",
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
+	"description" : {
+    "us": "Create a fully responsive landing page using React.js function components. Improve your frontend skills by structuring reusable Bootstrap elements like <Navbar />, <Jumbotron />, and <Card />. Learn to manage dynamic content with props, follow best coding practices, and optimize performance for a seamless user experience.",
+    "es": "Crea una landing page totalmente responsiva usando componentes funcionales de React.js. Mejora tus habilidades en frontend estructurando elementos reutilizables de Bootstrap como <Navbar />, <Jumbotron /> y <Card />. Aprende a gestionar contenido dinámico con props, sigue buenas prácticas de código y optimiza el rendimiento para una experiencia fluida."
+},
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
 		{ "badge": "select-everything", "points": 5 },
@@ -21,5 +28,9 @@
 		{ "badge": "the-console", "points": 10 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=177"
 }
+}
+
